@@ -17,15 +17,6 @@ slideshow:
   - id: 2
     image_path: ./assets/images/slideshow/image2.jpg
 
-  - id: 3
-    image_path: ./assets/images/slideshow/image3.jpg
-
-  - id: 4
-    image_path: ./assets/images/slideshow/image4.jpg
-
-  - id: 5
-    image_path: ./assets/images/slideshow/image5.jpg
-
 navbar:
   - id: 0
     label: Home
