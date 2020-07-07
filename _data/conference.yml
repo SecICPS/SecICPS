@@ -76,7 +76,7 @@ deadlines:
     timezone: 23:59 AoE
     text: Camera-Ready
     pass_due: False
-  - date: TBD
+  - date: November 16,2020
     text: Workshop
     pass_due: False
 news:
