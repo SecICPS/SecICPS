@@ -53,7 +53,7 @@ navbar:
     path: /contactus.html
     visible: True
 deadlines:
-  - date: Aug. 7 (Friday), 2020
+  - date: Aug. 21 (Friday), 2020
     timezone: 23:59 AoE
     text: Paper Registration and Abstract
     pass_due: False
