@@ -65,6 +65,7 @@ deadlines:
     pass_due: False
   - date: Sep. 25 (Friday), 2020 
     date: Oct. 9 (Friday), 2020
+    date: Oct. 16 (Friday), 2020
     timezone: 23:59 AoE
     text: Notification of Acceptance
     pass_due: False
