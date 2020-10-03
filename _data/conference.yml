@@ -53,29 +53,29 @@ navbar:
     path: /contactus.html
     visible: True
 deadlines:
-  - date: Aug. 7 (Friday), 2020 
-    date: Sep. 4 (Friday), 2020
+  - date1: Aug. 7 (Friday), 2020 
+    date2: Sep. 4 (Friday), 2020
     timezone: 23:59 AoE
     text: Paper Registration and Abstract
     pass_due: False
-  - date: Aug. 28 (Friday), 2020
-    date: Sep. 11 (Friday), 2020
+  - date1: Aug. 28 (Friday), 2020
+    date2: Sep. 11 (Friday), 2020
     timezone: 23:59 AoE
     text: Paper Submission
     pass_due: False
-  - date: Sep. 25 (Friday), 2020 
-    date: Oct. 9 (Friday), 2020
-    date: Oct. 16 (Friday), 2020
+  - date1: Sep. 25 (Friday), 2020 
+    date3: Oct. 9 (Friday), 2020
+    date2: Oct. 16 (Friday), 2020
     timezone: 23:59 AoE
     text: Notification of Acceptance
     pass_due: False
-  - date: Oct. 9 (Friday), 2020
-    date: Oct. 23 (Friday), 2020
+  - date1: Oct. 9 (Friday), 2020
+    date2: Oct. 23 (Friday), 2020
     timezone: 23:59 AoE
     text: Camera-Ready
     pass_due: False
-  - date: 
-    date: Nov. 16,2020
+  - date1: 
+    date2: Nov. 16,2020
     text: Workshop
     pass_due: False
 news:
